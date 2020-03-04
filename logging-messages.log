@@ -1,0 +1,8 @@
+2020-03-03 13:30:37 INFO  com.epam.cleancode.CompoundInterest:{1}:11 - 6288.946267774416
+2020-03-03 13:30:37 INFO  com.epam.cleancode.CompoundInterest:{1}:11 - 133.0992000000001
+2020-03-03 13:30:37 INFO  com.epam.cleancode.SimpleInterest:{1}:11 - 1000.0
+2020-03-03 13:30:37 INFO  com.epam.cleancode.SimpleInterest:{1}:11 - 360.0
+2020-03-04 07:52:45 INFO  com.epam.cleancode.ConstructionCost:{1}:26 - 156000
+2020-03-04 07:52:45 INFO  com.epam.cleancode.ConstructionCost:{1}:26 - 195000
+2020-03-04 07:52:45 INFO  com.epam.cleancode.ConstructionCost:{1}:26 - 234000
+2020-03-04 07:52:45 INFO  com.epam.cleancode.ConstructionCost:{1}:26 - 325000
